@@ -18,11 +18,11 @@ Prerequisites
 - ffmpeg installed and on PATH
 
 ShortCut Setup Script:-
+```bash
 git clone https://github.com/ighackerbot/capsync.git
 cd capsync
 bash script.sh
-
-
+```
 
 
 
