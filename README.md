@@ -17,7 +17,15 @@ Prerequisites
 - Python 3.9+
 - ffmpeg installed and on PATH
 
-Setup
+ShortCut Setup Script:-
+git clone https://github.com/ighackerbot/capsync.git
+cd capsync
+bash script.sh
+
+
+
+
+
 
 1) Install frontend deps
 
